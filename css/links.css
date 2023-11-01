@@ -1,0 +1,28 @@
+a:link, a:visited {
+	color: #00F;
+}
+
+a:hover{
+	color:#F00
+}
+
+.detaque_em_vermelho {
+	color: #F00;
+}
+
+.detaque_em_vermelho_Bload {
+	color: #F00;
+	font-weight:bolder;	
+}
+
+.detaque_em_azul {
+	color: #00F;
+}
+
+.detaque_em_azul_Bload {
+	color: #00F;
+	font-weight:bolder;
+}
+
+
+
